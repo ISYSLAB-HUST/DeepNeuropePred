@@ -17,6 +17,7 @@ pip install -r requirements.txt
 ```
 
 <!-- >📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc... -->
+🏷 Here, [SignalP5](http://www.cbs.dtu.dk/services/SignalP/portable.php) should be installed into your system environment
 
 
 ## Evaluation
