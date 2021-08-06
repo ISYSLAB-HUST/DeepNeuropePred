@@ -5,7 +5,7 @@
 <!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
 We propose a novel deep learning framework "DeepNeuropePred", using a combination of pre-trained language model and Convolutional Neural Networks for feature extraction and predicting the neuropeptide cleavage sites.
 
-![](./pic/fig1.png)
+![](./pic/fig1.jpg)
 
 
 ## Requirements
