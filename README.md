@@ -44,6 +44,9 @@ Our model achieves the following performance on :
 
 ![](./pic/roc.png)
 
+## Model details
+
+The methodological explanation of [DeepNeuropePred](./methodological_explanation.md)
 
 ## Contact
 
