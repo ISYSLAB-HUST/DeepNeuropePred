@@ -58,7 +58,7 @@ def get_params():
     return args
 
 
-if __name__ == "_main__":
+if __name__ == "__main__":
     args = vars(get_params())
     model_path = args['model_file']
     out = {}
